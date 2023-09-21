@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DockerReactCompetition/static/css/main.073c9b0a.css",
+    "main.js": "/DockerReactCompetition/static/js/main.a14b99df.js",
+    "static/js/787.1c91691f.chunk.js": "/DockerReactCompetition/static/js/787.1c91691f.chunk.js",
+    "static/media/logo.svg": "/DockerReactCompetition/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DockerReactCompetition/index.html",
+    "main.073c9b0a.css.map": "/DockerReactCompetition/static/css/main.073c9b0a.css.map",
+    "main.a14b99df.js.map": "/DockerReactCompetition/static/js/main.a14b99df.js.map",
+    "787.1c91691f.chunk.js.map": "/DockerReactCompetition/static/js/787.1c91691f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a14b99df.js"
+  ]
+}
